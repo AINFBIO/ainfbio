@@ -29,7 +29,7 @@ export function SiteHeader() {
 export function SiteFooter() {
   return <footer className="site-footer"><div className="wrap footer-grid">
     <div className="footer-brand"><a href="/#story" aria-label="AINFBIO 메인 페이지">AINFBIO</a><p>Science in Motion, Care in One Minute.</p></div>
-    <div className="business-info"><p><b>상호명</b> 앙프바이오</p><p><b>대표자</b> 조연우</p>
+    <div className="business-info"><p><b>상호명</b> 앙프바이오</p><p><b>대표자</b> 조연우 외 1명</p>
       <p><b>사업자등록번호</b> 782-12-00920</p>
       <p><b>통신판매업신고번호</b> 제 2018-진건퇴계원-0274호</p>
       <p><b>고객센터</b> 031-527-7222</p><p><b>이메일</b> ainfbio@gmail.com</p>
